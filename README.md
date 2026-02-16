@@ -53,7 +53,7 @@ This script loads the trained model and predicts the blood cell class for a samp
 
 # 7.Run the Web Application
 <python app.py>
-Open in browser: <https://2cf596c937ea4aafaf.gradio.live>
+Upload a blood cell image to get the *predicted cell type* instantly.
   
 # 8.Expected Results
 Accurate classification of 4 BC types
