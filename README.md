@@ -53,9 +53,8 @@ This script loads the trained model and predicts the blood cell class for a samp
 
 # 7.Run the Web Application
 <python app.py>
-Open in browser:
-Running on public URL: <https://2cf596c937ea4aafaf.gradio.live>
-
+Open in browser: <https://2cf596c937ea4aafaf.gradio.live>
+  
 # 8.Expected Results
 Accurate classification of 4 BC types
 Fast prediction using trained CNN model
