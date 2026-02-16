@@ -11,29 +11,6 @@ HematoVision aims to develop an accurate and efficient model for classifying blo
 | Member 3     | Kakaria Umesh Chandra Reddy      |
 ## [Project Demo Video Link]
 <https://drive.google.com/file/d/1oXSLu4lW-SQOzftMFpjtagMg_7hxfgKW/view?usp=drivesdk>
-
-## Project Structure
-hematovision/
-│
-├── dataset/
-│   ├── train/
-│   └── test/
-│
-├── models/
-│   └── blood_cell_model.h5
-│
-├── static/
-│   └── style.css
-│
-├── templates/
-│   ├── index.html
-│   └── result.html
-│
-├── app.py
-├── predict.py
-├── requirements.txt
-└── README.md
-
 ## Technologies Used
 | Category        | Technology            |
 |-----------------|-----------------------|
@@ -61,14 +38,14 @@ pip install tensorflow keras numpy pandas matplotlib opencv-python flask
 # 4.Download Dataset
 Link:  <https://www.kaggle.com/datasets/paultimothymooney/blood-cells/data>
 # 5.Train the Model
-python train.py
+<python train.py>
 This will train the CNN model and save it as:
 models/blood_cell_model.h5
 # 6.Test the Model
-python predict.py
+<python predict.py>
 This script loads the trained model and predicts the blood cell class for a sample image.
 ## 7.Run the Web Application
-python app.py
+<python app.py>
 Open in browser:
 Running on public URL: <https://2cf596c937ea4aafaf.gradio.live>
 Upload a blood cell image to get the *predicted cell type* instantly. 
