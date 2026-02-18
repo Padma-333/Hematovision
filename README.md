@@ -10,7 +10,7 @@ HematoVision aims to develop an accurate and efficient model for classifying blo
 | Member 2     | Posa Jayavardhan                 |
 | Member 3     | Kakaria Umesh Chandra Reddy      |
 ## [Project Demo Video Link]
-<https://drive.google.com/file/d/1oXSLu4lW-SQOzftMFpjtagMg_7hxfgKW/view?usp=drivesdk>
+<https://drive.google.com/file/d/1E3Spvh4xewJBQz-IMjXcovUnqw16OVQx/view?usp=drivesdk>
 ## Technologies Used
 | Category        | Technology            |
 |-----------------|-----------------------|
